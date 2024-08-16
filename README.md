@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naayarkor
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on SQL projects
+- 👀 I’m interested in Data Analytics (Excel, Power BI, SQL, etc)
+- 🌱 I’m currently learning SQL and Power BI
+- 💞️ I’m looking to collaborate on SQL, Power BI, and Excel projects
 - 📫 How to reach me yarteyd0@gmail.com
 
 <!---
